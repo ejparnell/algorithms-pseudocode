@@ -95,7 +95,7 @@ You can pseudocode in any way that makes sense to you. Here are some common ways
 - Use all caps for keywords like IF, ELSE, WHILE, and FOR.
 - Use indentation to show the structure of the code.
 
-Start with your algorithmic thinking:
+Let's take a look at an example of pseudocode for a sorting a list of numbers. Start with your algorithmic thinking:
 
 ```plaintext
 1. Input the List: Start with an unsorted list of numbers.
